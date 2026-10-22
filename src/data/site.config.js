@@ -4,7 +4,7 @@
  */
 
 export const site = {
-  siteUrl: "https://jeevankumar1997g1-blip.github.io/harshitha-wedding-invitation/",
+  siteUrl: "https://jeevankumar1997g1-blip.github.io/chandan-wedding-invitation/",
   defaultTheme: "lotus",
   themes: [
     { id: "marigold", label: "Marigold" },
@@ -14,15 +14,15 @@ export const site = {
     { id: "lotus", label: "Lotus" },
   ],
   meta: {
-    title: "Harshitha & Chandan — We're getting married",
+    title: "Chandan & Harshitha — We're getting married",
     description:
-      "Join the families of Harshitha and Chandan at Sri Nandini Palace, Kolar, on 4 November 2026. Reception, muhurtham, and all the details.",
+      "Join the families of Chandan and Harshitha at Sri Nandini Palace, Kolar, on 4 November 2026. Reception, muhurtham, and all the details.",
   },
   couple: {
-    partnerA: "Harshitha",
-    partnerB: "Chandan",
+    partnerA: "Chandan",
+    partnerB: "Harshitha",
   },
-  hashtag: "#HarshithaWedsChandan",
+  hashtag: "#ChandanWedsHarshitha",
   weddingDateIso: "2026-11-04T09:30:00+05:30",
   displayDate: "4 November 2026",
   city: "Kolar, Karnataka",
@@ -38,13 +38,16 @@ export const site = {
     ctaHref: "#invitation",
   },
   invitation: {
-    eyebrow: "With the blessings of Sri Anjaneya Swamy",
+    eyebrow: "With the blessings of Sri Channakeshava Swamy",
     heading: "Please bless the couple with your presence",
     paragraphs: [
-      "Smt. G. Gowramma and Sri K.V. Venkata Swamy of Kadirenahalli, Tekal Hobali, Malur Taluk, Kolar District, joyfully invite you, with your family and friends, to the marriage of their only daughter, Harshitha K.V., with Chandan D., elder son of Smt. Kantamma and Sri K. Devaraju of K. Muttukadahalli, Sidlaghatta Taluk, Chikkaballapur District.",
-      "The muhurtham (wedding ceremony) will take place on Wednesday, 4 November 2026, between 9:30 and 10:30 AM, in the Dhanassu lagna. We would be honoured to have you bless the bride and groom as they begin their life together.",
+      "Smt. Kantamma and Sri K. Devaraja (son of Smt. Ashwathamma and Sri Middoru Krishnappa) of K. Muttuthakadahalli, Tummanahalli Panchayath, Sidlaghatta Taluk, Chikkaballapur District, solicit your gracious presence with family and friends on the occasion of the marriage of their elder son, Chandan D., with Harshitha K.V., only daughter of Smt. G. Gowramma and Sri K.V. Venkata Swamy of Kadirenahalli, Tekal Panchayath, Malur Taluk, Kolar District.",
+      "The muhurtham (wedding ceremony) will take place on Wednesday, 4 November 2026, between 9:30 AM and 10:30 AM, in the Dhanassu lagna, at Sri Nandini Palace, N.H.-75, Kumbarahalli, Tamaka, Kolar Taluk. We would be honoured to have you bless the couple as they begin their life together.",
     ],
-    signOff: "Yours, Smt. G. Gowramma, Sri K.V. Venkata Swamy and Sri Dr. K.V. Jeevan Kumar",
+    signOff: [
+      "Yours, Smt. Kantamma and Sri K. Devaraja",
+      "Chi. Aravind D.",
+    ],
   },
   countdown: {
     heading: "Until the muhurtham",
@@ -69,7 +72,7 @@ export const site = {
       date: "3 November 2026",
       time: "6:30 PM onwards",
       venue: "Sri Nandini Palace, Kumbarahalli, Tamaka, Kolar",
-      note: "Bus from Tekal Hobali (Kadirenahalli) at 6:00 PM. Buses from Sri Ganesha Temple, Vivekanandanagara bus stop, Bangarapete at 6:00 PM and 6:30 PM.",
+      note: "An evening of blessings and celebration with family and friends.",
       accent: "ruby",
       mapsUrl: "https://maps.app.goo.gl/o8pawrH7YYrntkud8",
     },
@@ -79,7 +82,7 @@ export const site = {
       date: "4 November 2026",
       time: "9:30 AM to 10:30 AM",
       venue: "Sri Nandini Palace, Kumbarahalli, Tamaka, Kolar",
-      note: "The wedding ceremony in the Dhanassu lagna. Please be seated a little before the muhurtham.",
+      note: "The wedding ceremony in the Dhanassu lagna.",
       accent: "marigold",
       mapsUrl: "https://maps.app.goo.gl/o8pawrH7YYrntkud8",
     },
@@ -113,19 +116,19 @@ export const site = {
     photos: [
       {
         src: "photos/1.jpeg",
-        alt: "Harshitha and Chandan smiling with their foreheads touching, in a green field",
+        alt: "",
         width: 1280,
         height: 853,
       },
       {
         src: "photos/2.jpeg",
-        alt: "Harshitha and Chandan holding hands and walking across a grassy hillside with palm trees",
+        alt: "",
         width: 853,
         height: 1280,
       },
       {
         src: "photos/3.jpeg",
-        alt: "Harshitha and Chandan standing arm in arm in tall grass, looking at each other",
+        alt: "",
         width: 1165,
         height: 776,
       },
