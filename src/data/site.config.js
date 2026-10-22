@@ -71,7 +71,7 @@ export const site = {
       venue: "Sri Nandini Palace, Kumbarahalli, Tamaka, Kolar",
       note: "Bus from Tekal Hobali (Kadirenahalli) at 6:00 PM. Buses from Sri Ganesha Temple, Vivekanandanagara bus stop, Bangarapete at 6:00 PM and 6:30 PM.",
       accent: "ruby",
-      mapsUrl: "https://www.google.com/maps/place/Sri+Nandhini+Palace/@13.1352127,78.1861289,17z",
+      mapsUrl: "https://maps.app.goo.gl/o8pawrH7YYrntkud8?g_st=ac",
     },
     {
       id: "wedding",
@@ -81,7 +81,7 @@ export const site = {
       venue: "Sri Nandini Palace, Kumbarahalli, Tamaka, Kolar",
       note: "The wedding ceremony in the Dhanassu lagna. Please be seated a little before the muhurtham.",
       accent: "marigold",
-      mapsUrl: "https://www.google.com/maps/place/Sri+Nandhini+Palace/@13.1352127,78.1861289,17z",
+      mapsUrl: "https://maps.app.goo.gl/o8pawrH7YYrntkud8?g_st=ac",
     },
   ],
   venue: {
@@ -96,7 +96,7 @@ export const site = {
     directions:
       "Sri Nandini Palace is on National Highway 75 (N.H.-75) at Kumbarahalli, Tamaka, Kolar. Tap the button below to get directions in Google Maps.",
     mapsCta: "Open in Google Maps",
-    mapsUrl: "https://www.google.com/maps/place/Sri+Nandhini+Palace/@13.1352127,78.1861289,17z",
+    mapsUrl: "https://maps.app.goo.gl/o8pawrH7YYrntkud8?g_st=ac",
     loadMapLabel: "Load the map",
     mapTitle: "Map of Sri Nandini Palace, Kolar",
     embedUrl:
