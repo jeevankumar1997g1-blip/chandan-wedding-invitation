@@ -111,14 +111,24 @@ export const site = {
     prevLabel: "Previous photo",
     nextLabel: "Next photo",
     photos: [
-      { src: "photos/1.jpeg", alt: "Harshitha and Chandan, photo 1", width: 800, height: 600 },
-      { src: "photos/2.jpeg", alt: "Harshitha and Chandan, photo 2", width: 800, height: 600 },
-      { src: "photos/3.jpeg", alt: "Harshitha and Chandan, photo 3", width: 800, height: 600 },
-      { src: "photos/4.jpeg", alt: "Harshitha and Chandan, photo 4", width: 800, height: 600 },
-      { src: "photos/5.jpeg", alt: "Harshitha and Chandan, photo 5", width: 800, height: 600 },
-      { src: "photos/6.jpeg", alt: "Harshitha and Chandan, photo 6", width: 800, height: 600 },
-      { src: "photos/7.jpeg", alt: "Harshitha and Chandan, photo 7", width: 800, height: 600 },
-      { src: "photos/8.jpeg", alt: "Harshitha and Chandan, photo 8", width: 800, height: 600 },
+      {
+        src: "photos/1.jpeg",
+        alt: "Harshitha and Chandan smiling with their foreheads touching, in a green field",
+        width: 1280,
+        height: 853,
+      },
+      {
+        src: "photos/2.jpeg",
+        alt: "Harshitha and Chandan holding hands and walking across a grassy hillside with palm trees",
+        width: 853,
+        height: 1280,
+      },
+      {
+        src: "photos/3.jpeg",
+        alt: "Harshitha and Chandan standing arm in arm in tall grass, looking at each other",
+        width: 1165,
+        height: 776,
+      },
     ],
   },
   footer: {
